@@ -35,4 +35,8 @@ This figure shows the free body diagram of the ball on plate. This figure includ
 
 4. Controller Design and Simulations
 
-5. 
+5. Evaluation
+
+6.Appendix
+
+7. References
